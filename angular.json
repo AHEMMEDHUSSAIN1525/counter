@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngfiles-app"
+    }
+  },
+  "defaultProject": "ngfiles-app",
+  "cli": {
+    "analytics": "ae0cd684-3938-40a9-923e-e22625feb06b"
+  }
 }
